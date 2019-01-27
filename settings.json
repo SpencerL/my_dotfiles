@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontWeight": "bold",
+    "workbench.colorTheme": "Dracula Soft Syntax Theme",
+    "markdownConverter.ConversionType": [
+        "HTML",
+    ],
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#135564",
+        "editor.selectionHighlightBackground": "#135564",
+        "tab.activeBorder": "#c7c7c7",
+        "tab.unfocusedActiveBorder": "#c7c7c7",
+    },
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+}
