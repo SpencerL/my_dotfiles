@@ -1,0 +1,8 @@
+[alias]
+    st = status
+    co = checkout
+[user]
+    name = yourname
+    email = youremail
+[core]
+    editor = "vim"
