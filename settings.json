@@ -8,8 +8,8 @@
     "workbench.colorCustomizations": {
         "editor.selectionBackground": "#135564",
         "editor.selectionHighlightBackground": "#135564",
-        "tab.activeBorder": "#c7c7c7",
-        "tab.unfocusedActiveBorder": "#c7c7c7",
+        "tab.activeBorder": "#87f5ab",
+        "tab.unfocusedActiveBorder": "#87f5ab",
     },
     "workbench.iconTheme": "eq-material-theme-icons",
     "window.title": "${activeEditorLong}${separator}${rootName}",
