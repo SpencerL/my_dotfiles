@@ -12,3 +12,4 @@ set softtabstop=4
 " show current edited file path
 set statusline+=%F
 set laststatus=2
+set hlsearch
